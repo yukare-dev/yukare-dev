@@ -15,7 +15,7 @@ I’m someone who believes in the power of code to change the world, or at least
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> 
 
 - **Front-End**: HTML, CSS, JavaScript, React (constantly learning new stacks)
-- **Back-End**: Node.js, Express
+- **Back-End**: Node.js
 - **Database**: MySQL
 - **Collaboration Tools**: Git, GitHub, VS Code, Figma
 
