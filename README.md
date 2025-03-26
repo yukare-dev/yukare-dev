@@ -1,18 +1,14 @@
 # welcome to my coding universe! 💫
 
-Hi, I’m Stephanny Yukare! An aspiring Full-Stack developer, passionate about turning ideas into digital reality. I'm constantly evolving and always eager to learn something new. Shall we explore together? 🚀✨
+Hi, I’m Stephanny Yukare! An aspiring Full-Stack developer, passionate about turning ideas into digital reality. I'm constantly evolving and always eager to learn something new.
 
 ### 📚 get to know me
-I’m someone who believes in the power of code to change the world, or at least, make people’s lives easier (and more fun)! 😄
 
-- 💡 **Constant Learning**: Currently enrolled in the Full-Stack Development program by the amazing [Vai na Web](https://www.vainaweb.com.br/).
-- 🌐 **Front-End Explorer**: Participated in *PrograMaria Encontros: Front-end in Action*, diving into best practices and accessibility.
-- 🤝 **Focused on Collaboration**: Sharpened my skills in collaborative development through the *Principles of Collaborative Software Development* course at DIO.
-- 💥 **Experience with Google Gemini**: A deep dive into AI and modern development with *Google Gemini Dev Immersion* by Alura.
-
+I am currently transitioning my career to the technology field. I am dedicated to learning web development as part of the Full-Stack Development course at [Vai na Web](https://www.vainaweb.com.br/) and the [Programa ONE - ORACLE NEXT EDUCATION](https://www.oracle.com/br/education/oracle-next-education/) in partnership between ALURA and ORACLE.
+My background in psychology has provided me with a solid foundation in data analysis, communication, and teamwork. I am a fast learner, always willing to challenge myself to reach new goals.
 
 ### 🔧 my utility belt of tools
-<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> 
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### 🌟 github stats
 
