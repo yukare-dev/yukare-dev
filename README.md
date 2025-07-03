@@ -12,7 +12,7 @@ My background in psychology has provided me with a solid foundation in data anal
 
 ### 🌟 github stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yukare-dev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![yukare's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yukare-dev&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ### 💜 find me
 
