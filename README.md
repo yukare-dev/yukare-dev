@@ -4,7 +4,7 @@ Hi, I’m Stephanny Yukare! An aspiring Full-Stack developer, passionate about t
 
 ### 📚 get to know me
 
-I am currently transitioning my career to the technology field. Academic of Systems Analysis and Development at Estácio University. I am dedicated to learning web development as part of the [Programa ONE - ORACLE NEXT EDUCATION](https://www.oracle.com/br/education/oracle-next-education/) in partnership between ALURA and ORACLE. In addition to having training in Full-Stack Development at the [Vai na Web](https://www.vainaweb.com.br/).
+I am currently transitioning my career to the technology field. Academic of Systems Analysis and Development at Estácio University. I am dedicated to learning web development as part of the [Programa Desenvolve](https://desenvolve.grupoboticario.com.br/). Also trained in Full-Stack Development at the [Vai na Web](https://www.vainaweb.com.br/).
 My background in psychology has provided me with a solid foundation in data analysis, communication, and teamwork. I am a fast learner, always willing to challenge myself to reach new goals.
 
 ### 🔧 my utility belt of tools
